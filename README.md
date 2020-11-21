@@ -1,6 +1,6 @@
 Front panel, gerbers and schematics for **[Quatro](https://www.modulargrid.net/e/other-unknown-quatro), an Eurorack synth module from [Olivella Modular](https://linktr.ee/olivella)**.
 
-Based on Veils from Mutable Instruments. Original design by Emilie Gillet. Remix by Kevin Olivella.
+Based on Veils from Mutable Instruments. Original design by [Emilie Gillet](https://github.com/pichenettes/eurorack). Remix by Kevin Olivella.
 
 License
 =======
