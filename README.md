@@ -5,8 +5,7 @@ Based on [Veils](https://github.com/pichenettes/eurorack) from Mutable Instrumen
 License
 =======
 
-Hardware: This work is licensed under a
-[Creative Commons Attribution-ShareAlike 3.0 Unported International License][cc-by-sa].
+[CC BY-SA 4.0][cc-by-sa].
 
 [![CC BY-SA 3.0][cc-by-sa-image]][cc-by-sa]
 
