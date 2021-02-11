@@ -2,6 +2,13 @@ Front panel, gerbers and schematics for **[Quatro](https://www.modulargrid.net/e
 
 Based on [Veils](https://github.com/pichenettes/eurorack) from Mutable Instruments. Original design by Émilie Gillet. Remix by Kevin Olivella.
 
+WARNING !!!1!11
+=======
+
+The jacks used on this design are new-old-stock SMK PJ3410, whose pinout differs from [the ones that Thonk sells](https://www.thonk.co.uk/shop/pj3410/). You'll have to adapt them as following:
+
+![adapt](jack_adapt.png)
+
 License
 =======
 
@@ -15,4 +22,4 @@ License
 
 CC BY-SA 3.0 does not confer the right to use intellectual property such as trademarks, brand names, and logos. Olivella Modular, Quatro, Mutable Instruments, and Veils are trademarks of their respective owners and should not be used without permission.
 
-By: Kevin Olivella (kev.olivella@gmail.com)
+By Kevin Olivella (kev.olivella@gmail.com)
