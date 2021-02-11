@@ -5,7 +5,7 @@ Based on [Veils](https://github.com/pichenettes/eurorack) from Mutable Instrumen
 WARNING !!!1!11
 =======
 
-The jacks used on this design are new-old-stock SMK PJ3410, whose pinout differs from [the ones that Thonk sells](https://www.thonk.co.uk/shop/pj3410/). You'll have to adapt them as following:
+For this design I used new-old-stock SMK jacks, almost identical to the [PJ3410](https://www.thonk.co.uk/shop/pj3410/) BUT they have different pinouts. You'll have to adapt them as following:
 
 ![adapt](jack_adapt.png)
 
