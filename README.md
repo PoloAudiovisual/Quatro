@@ -1,13 +1,6 @@
 Front panel, gerbers, BOM and schematics for **[Quatro](https://www.olivellamodular.com/quatro.html), an Eurorack synthesizer module from [Olivella Modular](https://www.olivellamodular.com/)**.
 
-Based on [Veils](https://github.com/pichenettes/eurorack) from Mutable Instruments. Original design by Émilie Gillet. Remix by Kevin Olivella.
-
-WARNING !!!1!11
-=======
-
-For this design I used new-old-stock SMK jacks, almost identical to the [PJ3410](https://www.thonk.co.uk/shop/pj3410/) BUT they have different pinouts. You'll have to adapt them as following:
-
-![adapt](jack_adapt.png)
+Based on [Veils](https://github.com/pichenettes/eurorack) from Mutable Instruments. Original design by Émilie Gillet. Through-hole remix by Kevin Olivella.
 
 License
 =======
