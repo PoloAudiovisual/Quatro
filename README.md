@@ -1,6 +1,6 @@
 Front panel, gerbers, BOM and schematics for **[Quatro](https://www.olivellamodular.com/quatro.html), an Eurorack synthesizer module from [Olivella Modular](https://www.olivellamodular.com/)**.
 
-Based on [Veils](https://github.com/pichenettes/eurorack) v1 from Mutable Instruments. Original design by Émilie Gillet. Through-hole remix by Kevin Olivella.
+Based on Veils v1 from Mutable Instruments. [Original design](https://github.com/pichenettes/eurorack) by Émilie Gillet. Through-hole remix by Kevin Olivella.
 
 License
 =======
